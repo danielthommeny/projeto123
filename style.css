@@ -1,0 +1,37 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #resultado
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultado2 ,#resultado1
+{
+  color: black;
+}
+.nome
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 25px;
+  letter-spacing: 1px;
+}
+label{font-size: 20px;
+color: rgb(231, 55, 55);
+background-color: azure;
+padding: 6px;
+border-radius: 15px;}
